@@ -1,4 +1,4 @@
-# Staggered-Difference-in-Differences
+# Staggered-Difference-in-Difference
 
 Difference in difference estimators have been a popular empirical strategy for researchers since the “credibility revolution” [Angrist and Pischke, 2008] and they remain incredibly popular. Empirics somewhat got ahead of the theory, and the econometrics has caught up only recently. In doing so, it has discovered some potential problems with the canonical approach. Here, we will focus on issues with differential treatment timing across units as discussed in Goodman-Bacon [2018].
 Consider the familiar two-way fixed effect (TWFE) specification:
