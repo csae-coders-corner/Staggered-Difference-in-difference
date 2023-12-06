@@ -72,8 +72,8 @@ Andrew Goodman-Bacon. Difference-in-differences with variation in treatment timi
 Anton Strezhnev. Semiparametric weighting estimators for multi-period differencein-differences designs. In Annual Conference of the American Political Science Association, August, volume 30, 2018.
 
 
-**AUTHOR: Luke Milsom, DPhil candidate in the Department of Economics, University College, Oxford** 
+**AUTHOR: Luke Heath Milsom, The IFS (former DPhil candidate in the Department of Economics, Oxford)** 
 
-**10 June 2021**
+**06.12.2023**
 
 
